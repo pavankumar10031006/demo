@@ -12,4 +12,8 @@ public class SampleController {
     public String test() {
         return "WORJKING FINE";
     }
+    @GetMapping("/check")
+    public String test() {
+        return "WORJKING FINE";
+    }
 }
