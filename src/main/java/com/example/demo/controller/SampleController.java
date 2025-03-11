@@ -13,7 +13,7 @@ public class SampleController {
         return "WORJKING FINE";
     }
     @GetMapping("/check")
-    public String test() {
+    public String check() {
         return "WORJKING FINE";
     }
 }
